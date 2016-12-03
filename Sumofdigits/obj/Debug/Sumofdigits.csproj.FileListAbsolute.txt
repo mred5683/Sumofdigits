@@ -1,0 +1,9 @@
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\bin\Debug\Sumofdigits.exe.config
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\bin\Debug\Sumofdigits.exe
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\bin\Debug\Sumofdigits.pdb
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\obj\Debug\Sumofdigits.csprojResolveAssemblyReference.cache
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\obj\Debug\Sumofdigits.exe
+D:\C# Programs\Personal\Sumofdigits\Sumofdigits\obj\Debug\Sumofdigits.pdb
+C:\Programming\Git_Stuff\Sumofdigits\Sumofdigits\bin\Debug\Sumofdigits.exe.config
+C:\Programming\Git_Stuff\Sumofdigits\Sumofdigits\obj\Debug\Sumofdigits.exe
+C:\Programming\Git_Stuff\Sumofdigits\Sumofdigits\obj\Debug\Sumofdigits.pdb
